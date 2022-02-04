@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm bhutato</h1>
-- 🌱 I’m currently learning **socket.io**
+
 
 <p align="left">
 </p>
